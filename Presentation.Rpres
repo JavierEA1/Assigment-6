@@ -1,0 +1,39 @@
+Presentation
+========================================================
+author: 
+date: 
+autosize: true
+Incremental: true
+transition: fade
+transition-speed: slow
+```{r, include= FALSE}
+library(Stat2Data)
+```
+
+First Slide
+========================================================
+
+
+1. Bullet 1
+2. Bullet 2
+3. Bullet 3
+
+Slide With Code
+========================================================
+
+```{r}
+summary(cars)
+```
+
+Slide With Plot
+========================================================
+
+```{r, echo=FALSE}
+plot(cars)
+```
+Slide With Plot
+========================================================
+Slide With Plot
+========================================================
+Slide With Plot
+========================================================
